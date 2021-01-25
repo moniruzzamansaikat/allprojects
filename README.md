@@ -14,3 +14,8 @@
 
 [live 🌎](https://vanilla-js-age-calculator.netlify.app/)
 [codes](https://github.com/moniruzzamansaikat/vanilla-js-age-calculator)
+
+### Javascript drum kit
+
+[live 🌎](https://js-drum-kit1.netlify.app/)
+[codes](https://github.com/moniruzzamansaikat/javascript-drum-kit)
